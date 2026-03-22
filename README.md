@@ -10,4 +10,4 @@ apply on mnist data with image classification
 
 3.VGG16 
 
-  -> in this  file i apply VGG16  to see the over all accuracy in my own data set and prsoject overall in details 
+  -> in this  file i apply VGG16  to see the over all accuracy in my own data set and project overall in details 
