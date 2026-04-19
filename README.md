@@ -11,3 +11,7 @@ apply on mnist data with image classification
 3.VGG16 
 
   -> in this  file i apply VGG16  to see the over all accuracy in my own data set and project overall in details 
+
+
+4.DL_final_Exam_question.ipynb in details repo i give the final exam and details 
+
